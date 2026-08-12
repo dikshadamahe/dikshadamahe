@@ -53,8 +53,8 @@ streaming aggregator for Android. Thirty-odd tagged releases and counting.
 
 ### What I reach for
 
-`Python` `TypeScript` `SQL` &nbsp;·&nbsp; `scikit-learn` `XGBoost` `SHAP` `pandas`
-&nbsp;·&nbsp; `React` `Next.js` `Django` `FastAPI`
+`Python` `TypeScript` `Dart` `SQL` &nbsp;·&nbsp; `scikit-learn` `XGBoost` `SHAP` `pandas`
+&nbsp;·&nbsp; `React` `Next.js` `Flutter` `Django` `FastAPI` &nbsp;·&nbsp; `AWS` `Oracle OCI`
 
 <br />
 
