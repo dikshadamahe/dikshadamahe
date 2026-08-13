@@ -22,7 +22,7 @@
 <br />
 
 Final year BTech CSE (AI & ML) at VIT Bhopal. I spent last summer on the plant floor
-at Hindustan Copper, which taught me more about messy real-world data than any
+at Hindustan Copper limited, which taught me more about messy real-world data than any
 course has.
 
 ### Things I've built
